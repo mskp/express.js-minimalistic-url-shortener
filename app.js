@@ -94,3 +94,5 @@ app.post("/shorten-url", async (req, res) => {
     }
   }
 });
+
+export default app;
